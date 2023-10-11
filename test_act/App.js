@@ -174,6 +174,6 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     paddingBottom: 5,
     justifyContent: 'center',
-    alignItems: 'baseline',
+    alignItems: 'baseline'
   }
 })
